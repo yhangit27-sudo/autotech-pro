@@ -23,7 +23,7 @@ Sistema web de gestão para oficinas mecânicas desenvolvido com PHP e Laravel. 
 6. Execute `php artisan serve`
 7. Acesse `http://localhost:8000`
 
-Login inicial: `admin@autotech.com` — Senha: `admin123`
+Login inicial: `teste@autotech.com` — Senha: `password`
 
 ---
 
